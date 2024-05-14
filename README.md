@@ -1,10 +1,10 @@
-**Model Visualization and Analysis Report**
+
 
 **Project Overview:**
 
 Our team embarked on a project to develop a Convolutional Neural Network (CNN) model for actor image classification. The objective was to accurately identify actors Karim AbdelAziz, Hend Sabry, and Hany Ramzy from images. The project involved rigorous data preparation, model architecture design, training, and evaluation to achieve optimal classification accuracy.
 
- Model Visualization and Analysis**
+
 
 **Model Architecture Visualization:**
 
